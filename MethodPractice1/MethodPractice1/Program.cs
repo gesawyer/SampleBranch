@@ -6,9 +6,7 @@ namespace MethodPractice1
     {
         static void Main(string[] args)
         {
-            //this is the array setup 
-            // 6 is the set size of the array- must be specified at creation
-           // [] means array or some derivative of an array
+            Console.WriteLine("Hello there fellow kids.");
             int[] nums = new int [3];
             // 0   1  2    three spots in array but start at zero
             //[]  []  []

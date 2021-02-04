@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grace\\OneDrive\\Desktop\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj": {}
+    "C:\\Users\\grace\\OneDrive\\Desktop\\Branchdemo\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grace\\OneDrive\\Desktop\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj": {
+    "C:\\Users\\grace\\OneDrive\\Desktop\\Branchdemo\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grace\\OneDrive\\Desktop\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj",
+        "projectUniqueName": "C:\\Users\\grace\\OneDrive\\Desktop\\Branchdemo\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj",
         "projectName": "MethodPractice1",
-        "projectPath": "C:\\Users\\grace\\OneDrive\\Desktop\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj",
+        "projectPath": "C:\\Users\\grace\\OneDrive\\Desktop\\Branchdemo\\practice\\MethodPractice1\\MethodPractice1\\MethodPractice1.csproj",
         "packagesPath": "C:\\Users\\grace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grace\\OneDrive\\Desktop\\practice\\MethodPractice1\\MethodPractice1\\obj\\",
+        "outputPath": "C:\\Users\\grace\\OneDrive\\Desktop\\Branchdemo\\practice\\MethodPractice1\\MethodPractice1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grace\\AppData\\Roaming\\NuGet\\NuGet.Config",
