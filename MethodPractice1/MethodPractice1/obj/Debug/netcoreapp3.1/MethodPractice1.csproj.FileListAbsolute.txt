@@ -1,0 +1,13 @@
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\obj\Debug\netcoreapp3.1\MethodPractice1.csprojAssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\obj\Debug\netcoreapp3.1\MethodPractice1.AssemblyInfoInputs.cache
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\obj\Debug\netcoreapp3.1\MethodPractice1.AssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\obj\Debug\netcoreapp3.1\MethodPractice1.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\bin\Debug\netcoreapp3.1\MethodPractice1.exe
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\bin\Debug\netcoreapp3.1\MethodPractice1.deps.json
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\bin\Debug\netcoreapp3.1\MethodPractice1.runtimeconfig.json
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\bin\Debug\netcoreapp3.1\MethodPractice1.runtimeconfig.dev.json
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\bin\Debug\netcoreapp3.1\MethodPractice1.dll
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\bin\Debug\netcoreapp3.1\MethodPractice1.pdb
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\obj\Debug\netcoreapp3.1\MethodPractice1.dll
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\obj\Debug\netcoreapp3.1\MethodPractice1.pdb
+C:\Users\grace\OneDrive\Desktop\practice\MethodPractice1\MethodPractice1\obj\Debug\netcoreapp3.1\MethodPractice1.genruntimeconfig.cache
