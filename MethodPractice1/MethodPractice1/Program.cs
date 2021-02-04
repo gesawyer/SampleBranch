@@ -6,9 +6,13 @@ namespace MethodPractice1
     {
         static void Main(string[] args)
         {
+
             int a = 0;
             int b = 2;
         
+
+            Console.WriteLine("Hello there fellow kids.");
+
             int[] nums = new int [3];
             // 0   1  2    three spots in array but start at zero
             //[]  []  []
